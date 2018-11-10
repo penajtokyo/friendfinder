@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penajtokyo/friendfinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/penajtokyo/friendfinder/issues"
+  },
+  "homepage": "https://github.com/penajtokyo/friendfinder#readme"
 }
